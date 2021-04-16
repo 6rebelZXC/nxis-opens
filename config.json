@@ -1,0 +1,6 @@
+{
+	"auth":{
+		"token": "token",
+		"prefix": ">"
+	}
+}
