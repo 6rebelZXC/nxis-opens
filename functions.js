@@ -1,6 +1,6 @@
-const fs = require("fs");
-const chalk = require('chalk')
-const Discord = require('discord.js')
+const fs = require("fs"); //Adding file reader
+const chalk = require('chalk') // adding Chalk
+const Discord = require('discord.js') // [index.js]
 
 module.exports = (client) => {
 
@@ -30,7 +30,7 @@ module.exports = (client) => {
             })
         });
     });
-
+// TODO: Do Source/requirements directory
 
 
 };
