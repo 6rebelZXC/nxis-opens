@@ -6,7 +6,6 @@ const ytdl = require('ytdl-core') // connecting bot to the ytdl core to create m
 require("./functions.js")(client);
 client.commands = new Discord.Collection;
 client.aliases = new Discord.Collection;
-// TODO: Do comments
 
 client.login(token);
 module.exports = {
