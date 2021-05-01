@@ -1,2 +1,11 @@
-/* Bruh! it is the empty command to public version! */
-/* || From 𝙋𝘼𝙄𝙉𝙇𝙀𝙎𝙎#0090 || */
+module.exports.run = async(client,message,args,prefix) => {
+    // Command Code
+}
+
+
+module.exports.help = {
+    name: "smth", // what goes after prefix
+    aliases: [' '],// aliases
+    desc: '  ', // description of command
+    type: " " // type of command like moderation or smth
+}
