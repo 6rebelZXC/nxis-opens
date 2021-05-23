@@ -1,4 +1,4 @@
-const Discord = require('discord.js'); // connectiong Discord.Js [NPM I DISCORD.JS]
+const Discord = require('discord.js'); // connectiong Discord.Js [npm i discord.js]
 const client = new Discord.Client();
 const prefix = require("./config.json").auth.prefix; // Linking to the auth directory of the config.json
 const token = require("./config.json").auth.token;

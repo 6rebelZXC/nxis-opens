@@ -1,4 +1,4 @@
-module.exports.run = async(client,message,args,prefix) => {
+/* module.exports.run = async(client,message,args,prefix) => {
     // Command Code
 }
 
@@ -9,3 +9,4 @@ module.exports.help = {
     desc: '  ', // description of command
     type: " " // type of command like moderation or smth
 }
+*/
