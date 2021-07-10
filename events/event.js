@@ -5,6 +5,6 @@ const chalk = require('chalk') //OPTIONALLY: Download chalk (npm i chalk) for be
 client.on("ready", async () => { // creating event
     console.log(chalk.blueBright('{Event:start} Ready')) // console log of event
     setTimeout(() => {
-        client.user.setPresence({ status: "idle", activity: { name: "Made by UAV#2529", type: "WATCHING"}})
+        client.user.setPresence({ status: "idle", activity: { name: "Bot Made by SolisOrtus#0666", type: "WATCHING"}})
     }, 1000)
 }); 

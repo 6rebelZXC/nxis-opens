@@ -29,6 +29,5 @@ module.exports = (client) => {
                 client.aliases.set(alias, props.help.name);
             })
         });
-    });
-// TODO: Do Source/requirements directory
-};
+    })
+}
